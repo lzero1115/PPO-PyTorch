@@ -1,0 +1,8 @@
+# Model artifacts and logs
+PPO_models/
+wandb/
+
+# Python caches/bytecode
+__pycache__/
+**/__pycache__/
+*.pyc
